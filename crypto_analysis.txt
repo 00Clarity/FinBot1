@@ -1,0 +1,1249 @@
+Cryptocurrency Analysis - 2024-12-29 15:23:10
+==================================================
+
+AGLD:
+Current Price: $2.70619597
+Momentum Score: 146.47
+------------------------------
+YES:
+Current Price: $0.00357793
+Momentum Score: 80.73
+------------------------------
+THE:
+Current Price: $1.67666239
+Momentum Score: 53.63
+------------------------------
+SLF:
+Current Price: $0.35468195
+Momentum Score: 53.51
+------------------------------
+SUWI:
+Current Price: $0.00275826
+Momentum Score: 53.39
+------------------------------
+3AC:
+Current Price: $0.00231758
+Momentum Score: 46.25
+------------------------------
+AIXBT:
+Current Price: $0.50005209
+Momentum Score: 40.34
+------------------------------
+AVA:
+Current Price: $1.40349265
+Momentum Score: 31.19
+------------------------------
+BAN:
+Current Price: $0.05838022
+Momentum Score: 30.76
+------------------------------
+AI16Z:
+Current Price: $1.21336815
+Momentum Score: 30.30
+------------------------------
+VVAIFU:
+Current Price: $0.07134012
+Momentum Score: 30.22
+------------------------------
+MICHI:
+Current Price: $0.00009845
+Momentum Score: 27.52
+------------------------------
+GALAXIS:
+Current Price: $0.00089526
+Momentum Score: 27.41
+------------------------------
+VIRTUAL:
+Current Price: $3.70204701
+Momentum Score: 26.79
+------------------------------
+ANON:
+Current Price: $0.01259646
+Momentum Score: 26.01
+------------------------------
+FAI:
+Current Price: $0.02926306
+Momentum Score: 25.88
+------------------------------
+LUIGI:
+Current Price: $0.00839241
+Momentum Score: 24.48
+------------------------------
+STNK:
+Current Price: $150.60395482
+Momentum Score: 24.25
+------------------------------
+SIGMA:
+Current Price: $0.04889432
+Momentum Score: 23.22
+------------------------------
+DOLAN:
+Current Price: $0.27562572
+Momentum Score: 23.13
+------------------------------
+URO:
+Current Price: $0.06390422
+Momentum Score: 22.80
+------------------------------
+HAWKTUAH:
+Current Price: $0.00051902
+Momentum Score: 21.20
+------------------------------
+DYM:
+Current Price: $1.37637992
+Momentum Score: 21.03
+------------------------------
+PIP:
+Current Price: $0.04540342
+Momentum Score: 20.20
+------------------------------
+ME:
+Current Price: $3.51462594
+Momentum Score: 19.77
+------------------------------
+VISTA:
+Current Price: $34.97364638
+Momentum Score: 19.51
+------------------------------
+PAAL:
+Current Price: $0.35377503
+Momentum Score: 19.27
+------------------------------
+RETARDIO:
+Current Price: $0.07640758
+Momentum Score: 19.14
+------------------------------
+ZEREBRO:
+Current Price: $0.35105686
+Momentum Score: 18.78
+------------------------------
+POCHITA:
+Current Price: $0.00188997
+Momentum Score: 18.05
+------------------------------
+COW:
+Current Price: $0.98359416
+Momentum Score: 16.90
+------------------------------
+FTT:
+Current Price: $3.69111069
+Momentum Score: 16.62
+------------------------------
+CATANA:
+Current Price: $0.01258928
+Momentum Score: 16.17
+------------------------------
+GIGA:
+Current Price: $0.06771059
+Momentum Score: 14.95
+------------------------------
+EMP:
+Current Price: $301.97840964
+Momentum Score: 14.52
+------------------------------
+ROCKY:
+Current Price: $0.00193669
+Momentum Score: 14.27
+------------------------------
+SELFIE:
+Current Price: $0.01097861
+Momentum Score: 13.63
+------------------------------
+HAPPY:
+Current Price: $0.01027093
+Momentum Score: 13.22
+------------------------------
+BRAINLET:
+Current Price: $0.00934497
+Momentum Score: 13.18
+------------------------------
+MINI:
+Current Price: $0.02216779
+Momentum Score: 12.82
+------------------------------
+SUNCAT:
+Current Price: $0.00373367
+Momentum Score: 12.73
+------------------------------
+SPX:
+Current Price: $0.89643220
+Momentum Score: 12.43
+------------------------------
+DMAGA:
+Current Price: $0.00423328
+Momentum Score: 12.28
+------------------------------
+SUNDOG:
+Current Price: $0.09582679
+Momentum Score: 12.14
+------------------------------
+SHFL:
+Current Price: $0.23409977
+Momentum Score: 12.09
+------------------------------
+DRIFT:
+Current Price: $1.28600570
+Momentum Score: 11.49
+------------------------------
+SUN:
+Current Price: $0.02474824
+Momentum Score: 11.25
+------------------------------
+ORDER:
+Current Price: $0.23559876
+Momentum Score: 11.18
+------------------------------
+ARC:
+Current Price: $0.26969436
+Momentum Score: 10.52
+------------------------------
+NLK:
+Current Price: $0.01831284
+Momentum Score: 9.60
+------------------------------
+ACX:
+Current Price: $0.60720995
+Momentum Score: 9.28
+------------------------------
+CHEEMS:
+Current Price: $0.00000100
+Momentum Score: 9.17
+------------------------------
+MOVE:
+Current Price: $0.98343460
+Momentum Score: 9.02
+------------------------------
+CLANKER:
+Current Price: $66.77973795
+Momentum Score: 8.77
+------------------------------
+KACY:
+Current Price: $0.00129802
+Momentum Score: 8.69
+------------------------------
+CRV:
+Current Price: $0.93791169
+Momentum Score: 8.65
+------------------------------
+GINNAN:
+Current Price: $0.00000083
+Momentum Score: 8.46
+------------------------------
+DOGINME:
+Current Price: $0.00034899
+Momentum Score: 8.18
+------------------------------
+TROY:
+Current Price: $0.00556660
+Momentum Score: 7.97
+------------------------------
+ORCA:
+Current Price: $3.68567017
+Momentum Score: 7.00
+------------------------------
+COBY:
+Current Price: $0.00346864
+Momentum Score: 6.99
+------------------------------
+FWOG:
+Current Price: $0.30664470
+Momentum Score: 6.94
+------------------------------
+GOUT:
+Current Price: $0.00032400
+Momentum Score: 6.92
+------------------------------
+HIPPO:
+Current Price: $0.00980265
+Momentum Score: 6.89
+------------------------------
+PENGU:
+Current Price: $0.03248223
+Momentum Score: 6.79
+------------------------------
+USUAL:
+Current Price: $1.03038825
+Momentum Score: 6.50
+------------------------------
+MAGA:
+Current Price: $0.00006672
+Momentum Score: 5.55
+------------------------------
+KEYCAT:
+Current Price: $0.00416942
+Momentum Score: 5.53
+------------------------------
+HAWK:
+Current Price: $0.00013171
+Momentum Score: 5.53
+------------------------------
+XAI:
+Current Price: $0.22992604
+Momentum Score: 5.41
+------------------------------
+JTO:
+Current Price: $3.28601113
+Momentum Score: 5.38
+------------------------------
+CKB:
+Current Price: $0.01163033
+Momentum Score: 5.05
+------------------------------
+PEOPLE:
+Current Price: $0.04377027
+Momentum Score: 4.81
+------------------------------
+W:
+Current Price: $0.28760368
+Momentum Score: 4.78
+------------------------------
+BILLY:
+Current Price: $0.02066449
+Momentum Score: 4.55
+------------------------------
+ZEC:
+Current Price: $60.16624417
+Momentum Score: 4.24
+------------------------------
+API3:
+Current Price: $1.63716684
+Momentum Score: 4.21
+------------------------------
+ZK:
+Current Price: $0.19182934
+Momentum Score: 4.17
+------------------------------
+MIGGLES:
+Current Price: $0.06690849
+Momentum Score: 4.11
+------------------------------
+TURBO:
+Current Price: $0.00944554
+Momentum Score: 4.07
+------------------------------
+RLB:
+Current Price: $0.13053521
+Momentum Score: 4.00
+------------------------------
+APE:
+Current Price: $1.20148889
+Momentum Score: 3.94
+------------------------------
+SLERF:
+Current Price: $0.16850720
+Momentum Score: 3.78
+------------------------------
+MERL:
+Current Price: $0.28174505
+Momentum Score: 3.62
+------------------------------
+BOME:
+Current Price: $0.00619337
+Momentum Score: 3.54
+------------------------------
+MEME:
+Current Price: $0.01069288
+Momentum Score: 3.53
+------------------------------
+CAKE:
+Current Price: $2.51720505
+Momentum Score: 3.50
+------------------------------
+AEVO:
+Current Price: $0.36312645
+Momentum Score: 3.49
+------------------------------
+UNFI:
+Current Price: $0.64974398
+Momentum Score: 3.46
+------------------------------
+WOJAK:
+Current Price: $0.00088321
+Momentum Score: 3.37
+------------------------------
+NUB:
+Current Price: $0.01174790
+Momentum Score: 3.31
+------------------------------
+RDNT:
+Current Price: $0.05868822
+Momentum Score: 3.25
+------------------------------
+TRX:
+Current Price: $0.25920752
+Momentum Score: 3.17
+------------------------------
+XTZ:
+Current Price: $1.34665327
+Momentum Score: 3.03
+------------------------------
+GME:
+Current Price: $0.00384962
+Momentum Score: 2.83
+------------------------------
+BULL:
+Current Price: $0.01933878
+Momentum Score: 2.80
+------------------------------
+FIGHT:
+Current Price: $0.00266606
+Momentum Score: 2.73
+------------------------------
+PYTH:
+Current Price: $0.37604564
+Momentum Score: 2.73
+------------------------------
+LUNA:
+Current Price: $0.42775422
+Momentum Score: 2.73
+------------------------------
+SKI:
+Current Price: $0.21342379
+Momentum Score: 2.66
+------------------------------
+MAV:
+Current Price: $0.20817592
+Momentum Score: 2.56
+------------------------------
+REI:
+Current Price: $0.05727617
+Momentum Score: 2.56
+------------------------------
+ORDI:
+Current Price: $26.35175960
+Momentum Score: 2.53
+------------------------------
+PIXEL:
+Current Price: $0.15808929
+Momentum Score: 2.49
+------------------------------
+SOL:
+Current Price: $191.24035382
+Momentum Score: 2.46
+------------------------------
+TRUMP:
+Current Price: $1.56267526
+Momentum Score: 2.40
+------------------------------
+GRIFFAIN:
+Current Price: $0.20273957
+Momentum Score: 2.36
+------------------------------
+TOSHI:
+Current Price: $0.00014314
+Momentum Score: 2.34
+------------------------------
+STRK:
+Current Price: $0.47880409
+Momentum Score: 2.33
+------------------------------
+AAVE:
+Current Price: $328.80538232
+Momentum Score: 2.18
+------------------------------
+BIFI:
+Current Price: $360.42726940
+Momentum Score: 2.10
+------------------------------
+EVAN:
+Current Price: $0.03848774
+Momentum Score: 2.04
+------------------------------
+PENDLE:
+Current Price: $5.23202223
+Momentum Score: 1.94
+------------------------------
+RIF:
+Current Price: $0.10585939
+Momentum Score: 1.90
+------------------------------
+BLAST:
+Current Price: $0.00919848
+Momentum Score: 1.89
+------------------------------
+HBAR:
+Current Price: $0.27828470
+Momentum Score: 1.86
+------------------------------
+MANEKI:
+Current Price: $0.00488244
+Momentum Score: 1.84
+------------------------------
+MANTA:
+Current Price: $0.83991862
+Momentum Score: 1.83
+------------------------------
+MILK:
+Current Price: $0.65625911
+Momentum Score: 1.80
+------------------------------
+ZRO:
+Current Price: $5.29405127
+Momentum Score: 1.78
+------------------------------
+ARKM:
+Current Price: $1.46271995
+Momentum Score: 1.78
+------------------------------
+BANANA:
+Current Price: $36.40734329
+Momentum Score: 1.64
+------------------------------
+ELIZA:
+Current Price: $0.00592955
+Momentum Score: 1.63
+------------------------------
+OX:
+Current Price: $0.02556953
+Momentum Score: 1.61
+------------------------------
+SAND:
+Current Price: $0.55179102
+Momentum Score: 1.57
+------------------------------
+OM:
+Current Price: $3.74720743
+Momentum Score: 1.57
+------------------------------
+GROK:
+Current Price: $0.00581179
+Momentum Score: 1.56
+------------------------------
+PEPE:
+Current Price: $0.00001788
+Momentum Score: 1.46
+------------------------------
+NPC:
+Current Price: $0.02510072
+Momentum Score: 1.43
+------------------------------
+DOGS:
+Current Price: $0.00051473
+Momentum Score: 1.42
+------------------------------
+NOT:
+Current Price: $0.00626389
+Momentum Score: 1.39
+------------------------------
+TREMP:
+Current Price: $0.09324511
+Momentum Score: 1.37
+------------------------------
+CFX:
+Current Price: $0.15882485
+Momentum Score: 1.29
+------------------------------
+OP:
+Current Price: $1.80767354
+Momentum Score: 1.25
+------------------------------
+EOS:
+Current Price: $0.77779372
+Momentum Score: 1.24
+------------------------------
+LOL:
+Current Price: $0.00000000
+Momentum Score: 1.24
+------------------------------
+BIGTIME:
+Current Price: $0.14012340
+Momentum Score: 1.22
+------------------------------
+TIGER:
+Current Price: $0.00011697
+Momentum Score: 1.19
+------------------------------
+TON:
+Current Price: $5.65655247
+Momentum Score: 1.15
+------------------------------
+NEAR:
+Current Price: $5.13300500
+Momentum Score: 1.10
+------------------------------
+BABYBNB:
+Current Price: $0.00618710
+Momentum Score: 1.04
+------------------------------
+FLOKI:
+Current Price: $0.00017204
+Momentum Score: 1.03
+------------------------------
+GMX:
+Current Price: $27.93397201
+Momentum Score: 1.02
+------------------------------
+LUNC:
+Current Price: $0.00011039
+Momentum Score: 0.98
+------------------------------
+FARTCOIN:
+Current Price: $0.82703579
+Momentum Score: 0.96
+------------------------------
+MEW:
+Current Price: $0.00636388
+Momentum Score: 0.90
+------------------------------
+ETH:
+Current Price: $3,341.42496088
+Momentum Score: 0.88
+------------------------------
+SATS:
+Current Price: $0.00000018
+Momentum Score: 0.87
+------------------------------
+IO:
+Current Price: $2.82576024
+Momentum Score: 0.82
+------------------------------
+MUMU:
+Current Price: $0.00002392
+Momentum Score: 0.81
+------------------------------
+DADDY:
+Current Price: $0.06041783
+Momentum Score: 0.81
+------------------------------
+LDO:
+Current Price: $1.76210599
+Momentum Score: 0.78
+------------------------------
+BARSIK:
+Current Price: $0.01538743
+Momentum Score: 0.78
+------------------------------
+TSUKA:
+Current Price: $0.00678189
+Momentum Score: 0.77
+------------------------------
+ARB:
+Current Price: $0.74731320
+Momentum Score: 0.73
+------------------------------
+FIL:
+Current Price: $4.95425808
+Momentum Score: 0.71
+------------------------------
+PANDORA:
+Current Price: $1,763.57847886
+Momentum Score: 0.70
+------------------------------
+WEN:
+Current Price: $0.00008620
+Momentum Score: 0.69
+------------------------------
+ALT:
+Current Price: $0.11324408
+Momentum Score: 0.67
+------------------------------
+SAGA:
+Current Price: $1.41185407
+Momentum Score: 0.65
+------------------------------
+HNT:
+Current Price: $6.58516767
+Momentum Score: 0.60
+------------------------------
+BNB:
+Current Price: $694.11284009
+Momentum Score: 0.56
+------------------------------
+LUMIA:
+Current Price: $1.31943670
+Momentum Score: 0.55
+------------------------------
+PORK:
+Current Price: $0.00000009
+Momentum Score: 0.44
+------------------------------
+RON:
+Current Price: $1.88933673
+Momentum Score: 0.41
+------------------------------
+SEI:
+Current Price: $0.41198482
+Momentum Score: 0.41
+------------------------------
+DOGE:
+Current Price: $0.31426944
+Momentum Score: 0.27
+------------------------------
+UWU:
+Current Price: $0.00020217
+Momentum Score: 0.23
+------------------------------
+ID:
+Current Price: $0.44225839
+Momentum Score: 0.22
+------------------------------
+BCH:
+Current Price: $440.81814139
+Momentum Score: 0.22
+------------------------------
+TAO:
+Current Price: $455.09491589
+Momentum Score: 0.19
+------------------------------
+LTC:
+Current Price: $98.33296490
+Momentum Score: 0.18
+------------------------------
+XMR:
+Current Price: $192.63087002
+Momentum Score: 0.18
+------------------------------
+ZETA:
+Current Price: $0.57369478
+Momentum Score: 0.17
+------------------------------
+WIF:
+Current Price: $1.84430290
+Momentum Score: 0.11
+------------------------------
+WOO:
+Current Price: $0.21102446
+Momentum Score: 0.06
+------------------------------
+SHIB:
+Current Price: $0.00002157
+Momentum Score: 0.03
+------------------------------
+DOT:
+Current Price: $6.87939893
+Momentum Score: 0.03
+------------------------------
+BUCK:
+Current Price: $0.99981192
+Momentum Score: 0.01
+------------------------------
+APPLE:
+Current Price: $0.00000000
+Momentum Score: 0.01
+------------------------------
+WLD:
+Current Price: $2.13805571
+Momentum Score: -0.01
+------------------------------
+ACE:
+Current Price: $2.05037038
+Momentum Score: -0.02
+------------------------------
+GIKO:
+Current Price: $2.89400510
+Momentum Score: -0.09
+------------------------------
+BLUR:
+Current Price: $0.24743016
+Momentum Score: -0.11
+------------------------------
+JUP:
+Current Price: $0.80621812
+Momentum Score: -0.11
+------------------------------
+KAS:
+Current Price: $0.11723577
+Momentum Score: -0.14
+------------------------------
+PUNK:
+Current Price: $120,896.61284275
+Momentum Score: -0.18
+------------------------------
+ETC:
+Current Price: $25.68055468
+Momentum Score: -0.19
+------------------------------
+PAJAMAS:
+Current Price: $0.00271371
+Momentum Score: -0.23
+------------------------------
+CREAM:
+Current Price: $13.11500032
+Momentum Score: -0.25
+------------------------------
+STONKS:
+Current Price: $0.00000851
+Momentum Score: -0.28
+------------------------------
+INJ:
+Current Price: $20.22365743
+Momentum Score: -0.31
+------------------------------
+IMX:
+Current Price: $1.35076908
+Momentum Score: -0.31
+------------------------------
+CULT:
+Current Price: $0.00000217
+Momentum Score: -0.35
+------------------------------
+BITCOIN:
+Current Price: $0.17618194
+Momentum Score: -0.39
+------------------------------
+BONK:
+Current Price: $0.00003111
+Momentum Score: -0.39
+------------------------------
+SCR:
+Current Price: $1.00941830
+Momentum Score: -0.46
+------------------------------
+RENDER:
+Current Price: $6.84828163
+Momentum Score: -0.50
+------------------------------
+ATOM:
+Current Price: $6.31157381
+Momentum Score: -0.51
+------------------------------
+DEGOD:
+Current Price: $0.00357507
+Momentum Score: -0.51
+------------------------------
+TIA:
+Current Price: $4.73727238
+Momentum Score: -0.57
+------------------------------
+GRASS:
+Current Price: $2.30875937
+Momentum Score: -0.61
+------------------------------
+IOTA:
+Current Price: $0.29193482
+Momentum Score: -0.62
+------------------------------
+AR:
+Current Price: $16.29025582
+Momentum Score: -0.62
+------------------------------
+FRIC:
+Current Price: $0.00703384
+Momentum Score: -0.65
+------------------------------
+SXP:
+Current Price: $0.29671561
+Momentum Score: -0.65
+------------------------------
+JEFF:
+Current Price: $0.00413360
+Momentum Score: -0.72
+------------------------------
+JOE:
+Current Price: $0.37865541
+Momentum Score: -0.79
+------------------------------
+ADA:
+Current Price: $0.86196133
+Momentum Score: -0.83
+------------------------------
+AERO:
+Current Price: $1.48632529
+Momentum Score: -0.84
+------------------------------
+SKBDI:
+Current Price: $0.19819352
+Momentum Score: -0.87
+------------------------------
+APT:
+Current Price: $8.88642444
+Momentum Score: -0.88
+------------------------------
+BTC:
+Current Price: $93,322.13353364
+Momentum Score: -0.90
+------------------------------
+SUI:
+Current Price: $4.08397570
+Momentum Score: -0.90
+------------------------------
+MKR:
+Current Price: $1,502.63443774
+Momentum Score: -0.90
+------------------------------
+POL:
+Current Price: $0.46662214
+Momentum Score: -0.93
+------------------------------
+FRIEND:
+Current Price: $0.06371539
+Momentum Score: -0.98
+------------------------------
+ENA:
+Current Price: $0.92961798
+Momentum Score: -1.04
+------------------------------
+LINK:
+Current Price: $21.11922707
+Momentum Score: -1.16
+------------------------------
+LINGO:
+Current Price: $0.33760680
+Momentum Score: -1.35
+------------------------------
+BERT:
+Current Price: $0.03463783
+Momentum Score: -1.36
+------------------------------
+BOBAOPPA:
+Current Price: $0.00127850
+Momentum Score: -1.38
+------------------------------
+AVAX:
+Current Price: $35.95988918
+Momentum Score: -1.38
+------------------------------
+MYRO:
+Current Price: $0.06361066
+Momentum Score: -1.45
+------------------------------
+RUNE:
+Current Price: $4.54612019
+Momentum Score: -1.47
+------------------------------
+HEGE:
+Current Price: $0.02230554
+Momentum Score: -1.54
+------------------------------
+CAT:
+Current Price: $0.00003421
+Momentum Score: -1.62
+------------------------------
+XRP:
+Current Price: $2.12463649
+Momentum Score: -1.65
+------------------------------
+STX:
+Current Price: $1.56965369
+Momentum Score: -1.65
+------------------------------
+POPCAT:
+Current Price: $0.73612808
+Momentum Score: -1.67
+------------------------------
+WOLF:
+Current Price: $0.00019357
+Momentum Score: -1.68
+------------------------------
+AXL:
+Current Price: $0.71243927
+Momentum Score: -1.74
+------------------------------
+XLM:
+Current Price: $0.34171012
+Momentum Score: -1.82
+------------------------------
+LMEOW:
+Current Price: $0.03120256
+Momentum Score: -1.84
+------------------------------
+REDO:
+Current Price: $0.18696348
+Momentum Score: -1.89
+------------------------------
+MOODENG:
+Current Price: $0.25263409
+Momentum Score: -1.95
+------------------------------
+UNI:
+Current Price: $13.04662221
+Momentum Score: -2.00
+------------------------------
+EIGEN:
+Current Price: $3.33383413
+Momentum Score: -2.03
+------------------------------
+BOBO:
+Current Price: $0.00000087
+Momentum Score: -2.08
+------------------------------
+ALGO:
+Current Price: $0.32332593
+Momentum Score: -2.22
+------------------------------
+GAME:
+Current Price: $0.00540024
+Momentum Score: -2.23
+------------------------------
+WHY:
+Current Price: $0.00000013
+Momentum Score: -2.38
+------------------------------
+CETUS:
+Current Price: $0.30395735
+Momentum Score: -2.53
+------------------------------
+HOPPY:
+Current Price: $0.00007966
+Momentum Score: -2.58
+------------------------------
+ZYN:
+Current Price: $0.02816135
+Momentum Score: -2.58
+------------------------------
+CAW:
+Current Price: $0.00000004
+Momentum Score: -2.83
+------------------------------
+BLUB:
+Current Price: $0.00000008
+Momentum Score: -2.84
+------------------------------
+FRED:
+Current Price: $0.01814393
+Momentum Score: -2.84
+------------------------------
+AURA:
+Current Price: $0.38469639
+Momentum Score: -2.87
+------------------------------
+BRETT:
+Current Price: $0.12350953
+Momentum Score: -2.87
+------------------------------
+DUKO:
+Current Price: $0.00074867
+Momentum Score: -2.88
+------------------------------
+RBT:
+Current Price: $0.00000552
+Momentum Score: -2.91
+------------------------------
+HEHE:
+Current Price: $0.01196871
+Momentum Score: -2.95
+------------------------------
+BAKED:
+Current Price: $0.00461326
+Momentum Score: -2.99
+------------------------------
+ZEUS:
+Current Price: $0.70969834
+Momentum Score: -3.01
+------------------------------
+INST:
+Current Price: $6.68183970
+Momentum Score: -3.09
+------------------------------
+KENDU:
+Current Price: $0.00003019
+Momentum Score: -3.15
+------------------------------
+XYO:
+Current Price: $0.01821887
+Momentum Score: -3.23
+------------------------------
+PONKE:
+Current Price: $0.31067557
+Momentum Score: -3.26
+------------------------------
+KHAI:
+Current Price: $0.22136526
+Momentum Score: -3.29
+------------------------------
+LUM:
+Current Price: $8.00751667
+Momentum Score: -3.30
+------------------------------
+ACT:
+Current Price: $0.26358400
+Momentum Score: -3.49
+------------------------------
+HYPE:
+Current Price: $26.87990498
+Momentum Score: -3.52
+------------------------------
+KAIA:
+Current Price: $0.19990168
+Momentum Score: -3.55
+------------------------------
+SEND:
+Current Price: $1.94012267
+Momentum Score: -3.65
+------------------------------
+FTM:
+Current Price: $0.77878098
+Momentum Score: -3.74
+------------------------------
+SCF:
+Current Price: $0.01968607
+Momentum Score: -3.78
+------------------------------
+ASTRO:
+Current Price: $0.00014590
+Momentum Score: -3.93
+------------------------------
+MOG:
+Current Price: $0.00000209
+Momentum Score: -4.15
+------------------------------
+MOTHER:
+Current Price: $0.02910147
+Momentum Score: -4.25
+------------------------------
+USA:
+Current Price: $0.00000130
+Momentum Score: -4.29
+------------------------------
+RIZZMAS:
+Current Price: $0.00000325
+Momentum Score: -4.40
+------------------------------
+DEGEN:
+Current Price: $0.00928887
+Momentum Score: -4.41
+------------------------------
+COQ:
+Current Price: $0.00000143
+Momentum Score: -4.44
+------------------------------
+HFUN:
+Current Price: $166.08953169
+Momentum Score: -4.60
+------------------------------
+PNUT:
+Current Price: $0.59609998
+Momentum Score: -4.61
+------------------------------
+HIGHER:
+Current Price: $0.01256309
+Momentum Score: -4.64
+------------------------------
+PEAS:
+Current Price: $7.44108453
+Momentum Score: -4.71
+------------------------------
+ONDO:
+Current Price: $1.41037398
+Momentum Score: -4.90
+------------------------------
+PEIPEI:
+Current Price: $0.00000010
+Momentum Score: -5.12
+------------------------------
+GOAT:
+Current Price: $0.40036853
+Momentum Score: -5.27
+------------------------------
+WIFE:
+Current Price: $0.00253260
+Momentum Score: -5.29
+------------------------------
+KUJI:
+Current Price: $0.63802979
+Momentum Score: -5.49
+------------------------------
+FUD:
+Current Price: $0.00000021
+Momentum Score: -5.49
+------------------------------
+DINERO:
+Current Price: $0.06487713
+Momentum Score: -5.61
+------------------------------
+SUNWUKONG:
+Current Price: $0.00251804
+Momentum Score: -5.86
+------------------------------
+APU:
+Current Price: $0.00051906
+Momentum Score: -6.02
+------------------------------
+TORN:
+Current Price: $8.67811586
+Momentum Score: -6.07
+------------------------------
+DOG:
+Current Price: $0.00585923
+Momentum Score: -6.25
+------------------------------
+WUF:
+Current Price: $0.00000055
+Momentum Score: -6.29
+------------------------------
+CHILLGUY:
+Current Price: $0.15219853
+Momentum Score: -6.36
+------------------------------
+SHIRO:
+Current Price: $0.00000013
+Momentum Score: -6.57
+------------------------------
+JESUS:
+Current Price: $0.00000008
+Momentum Score: -6.81
+------------------------------
+CAH:
+Current Price: $12.37983003
+Momentum Score: -6.84
+------------------------------
+GNON:
+Current Price: $0.03321986
+Momentum Score: -7.35
+------------------------------
+ANDY:
+Current Price: $0.00018095
+Momentum Score: -7.52
+------------------------------
+DINO:
+Current Price: $0.00435110
+Momentum Score: -7.66
+------------------------------
+DEAI:
+Current Price: $0.49085135
+Momentum Score: -7.70
+------------------------------
+MAD:
+Current Price: $0.00002426
+Momentum Score: -7.75
+------------------------------
+BULLY:
+Current Price: $0.03835221
+Momentum Score: -7.86
+------------------------------
+PEPECOIN:
+Current Price: $2.06575407
+Momentum Score: -8.48
+------------------------------
+PURR:
+Current Price: $0.35383113
+Momentum Score: -8.69
+------------------------------
+NOCHILL:
+Current Price: $0.00215269
+Momentum Score: -10.29
+------------------------------
+LUCE:
+Current Price: $0.04999652
+Momentum Score: -11.17
+------------------------------
+FOUR:
+Current Price: $0.00100579
+Momentum Score: -12.22
+------------------------------
+YNE:
+Current Price: $0.02056677
+Momentum Score: -13.45
+------------------------------
+SHOGGOTH:
+Current Price: $0.04002792
+Momentum Score: -13.54
+------------------------------
+UFD:
+Current Price: $0.09172428
+Momentum Score: -13.60
+------------------------------
+MONKY:
+Current Price: $0.00001156
+Momentum Score: -13.71
+------------------------------
+RATS:
+Current Price: $0.00000168
+Momentum Score: -16.99
+------------------------------
+LESTER:
+Current Price: $0.00422438
+Momentum Score: -26.80
+------------------------------
+
+Total tokens analyzed: 311
